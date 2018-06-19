@@ -4,4 +4,4 @@ Register form with basic validations
 
 run npm install
 
-nodemon to start server
+nodemon to start server & also start mongodb simultaneously.
