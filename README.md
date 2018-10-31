@@ -2,6 +2,6 @@
 
 Register form with basic validations
 
-run npm install
+Step-1 - run npm install comand in cmd
 
-nodemon to start server & also start mongodb simultaneously.
+Step-2 - type 'nodemon' in cmd to start server & also start mongodb simultaneously.
